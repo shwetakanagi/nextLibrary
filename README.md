@@ -8,7 +8,6 @@ A full-stack Library Management System built with **Next.js**, **Express.js**, *
 
 ### 🎓 Student Dashboard
 - View list of available books
-- Search and filter books
 - View personal borrowing history
 - Request books
 
@@ -16,7 +15,7 @@ A full-stack Library Management System built with **Next.js**, **Express.js**, *
 - Add, update, or remove books
 - Manage student accounts
 - Approve or decline borrow requests
-- View system activity logs or reports (if implemented)
+- View system activity logs 
 
 ### 🔐 Authentication
 - JWT-based login and protected routes
